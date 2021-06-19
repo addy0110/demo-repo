@@ -1,4 +1,4 @@
-# Demo 
+#Demo 
 
 
-Info
+Info about the Project
